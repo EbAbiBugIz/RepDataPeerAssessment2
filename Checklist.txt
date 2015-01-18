@@ -1,0 +1,18 @@
+[ ] RPubs url starting with http: (not https:)
+
+[ ] written in English
+[ ] Title summarizing the data analysis
+[ ] Synopsis describes and summarizes data analysis < 10 sentences
+[ ] Section titled "Data Processing"
+[ ] Seciont titled "Results"
+[ ] at least one figure
+[ ] not more than 3 figures
+[ ] must start from the original .csv.bz2 file
+[ ] Address the question of which type of events are most harmful to population
+	health
+[ ] Address the question of which type of events have the greatest economic 
+        consequences
+[ ] are results reproducible
+[ ] figures have descriptive captions
+[ ] description and justification for any data transformations
+
