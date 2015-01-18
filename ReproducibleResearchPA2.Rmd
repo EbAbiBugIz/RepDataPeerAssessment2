@@ -1,0 +1,10 @@
+# Impact of Weather Events in the US on Health and Economy
+
+## Synopsis
+TODO
+
+## Data Processing
+TODO
+
+## Results
+TODO
